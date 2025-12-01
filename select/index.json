@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "How You Like That (Live)",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-01T06:00:28.974440Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How You Like That (Live)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_How_You_Like_That_(Live)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How You Like That (Live)",
+      "artist": "Video • BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_How_You_Like_That_(Live)_Video_•_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "How You Like That (Live)",
+      "artist": "Video, BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_How_You_Like_That_(Live)_Video,_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How You Like That - Live",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_How_You_Like_That_-_Live_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "How You Like That (Live)",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/05_How_You_Like_That_(Live)_Blackpink.lrc"
+    }
+  ]
+}
